@@ -2,14 +2,13 @@ baseURL = ""
 languageCode = "be"
 title = "Цэнтар беларускай культуры й супольнасьці ў Вільні"
 theme = "ananke"
-disqusShortname = ""
+disqusShortname = "vilnia"
 
 DefaultContentLanguage = "be"
 SectionPagesMenu = "main"
 Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-disqusShortname = "vilnia"
 
 [languages]
   [languages.be]
