@@ -1,6 +1,6 @@
 ---
 title: "Вітаем у Вільні."
-featured_image: ''
-description: "The last theme you'll ever need. Maybe."
+featured_image: "images/vln2.jpg"
+description: "Тут нядрэнна."
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Прывітаньне! На гэтай старонцы вы можаце дазнацца пра падзеі й навіны ў Беларускім цэнтры культуры й супольнасьці ў Вільні.
