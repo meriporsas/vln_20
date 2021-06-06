@@ -1,3 +1,4 @@
+---
 title: "Sveiki atvykę."
 featured_image: 'vln2.jpg'
 description: "Vieta susitikimams."
