@@ -1,0 +1,43 @@
+baseURL = ""
+languageCode = "be"
+title = "Цэнтар беларускай культуры й супольнасьці ў Вільні"
+theme = "ananke"
+disqusShortname = ""
+
+DefaultContentLanguage = "be"
+SectionPagesMenu = "main"
+Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.be]
+    title = "Цэнтар беларускай культуры й супольнасьці ў Вільні"
+    weight = 1
+    contentDir = "content/be"
+  [languages.lt]
+    title = "Baltarusių kultūros ir bendruomenės centras Vilniuje"
+    weight = 2
+    contentDir = "content/lt"
+  [languages.en]
+    title = "Center of Belarusian Culture and Community in Vilnius"
+    weight = 3
+    contentDir = "content/en"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[permalinks]
+post = "/:slug/"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "Welcome to the Center of Belarusian Culture and Community in Vilnius."
+  facebook = ""
+  commentoEnable = true
+  background_color_class = "bg-dark-gray"
+  recent_posts_number = 2
+  mainSections = ["post"]
