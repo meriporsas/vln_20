@@ -1,6 +1,6 @@
 ---
 title: "Sveiki atvykę."
-featured_image: 'images/vln2.jpg'
+featured_image: "images/vln2.jpg"
 description: "Vieta susitikimams."
 ---
-Šiame puslapyje galite rasti Baltarusių kultūros ir bendruomenės centro naujienas bei informaciją apie renginius. 
+Ačiū, kad užėjote! Šiame puslapyje galite rasti Baltarusių kultūros ir bendruomenės centro naujienas bei informaciją apie renginius. 
