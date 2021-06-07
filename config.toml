@@ -33,7 +33,7 @@ enableRobotsTXT = true
 post = "/:slug/"
 
 [params]
-  favicon = ""
+  favicon = "images/VBM_logo.svg"
   site_logo = ""
   description = "Welcome to the Center of Belarusian Culture and Community in Vilnius."
   facebook = "https://www.facebook.com/lutskevichmuseum/"
