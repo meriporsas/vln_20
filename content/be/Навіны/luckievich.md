@@ -1,7 +1,7 @@
 ---
 date: 2021-06-03T18:06:11+03:00
 description: ""
-featured_image: "images/luck1.jpg"
+featured_image: "/images/luck1.jpg"
 tags: ["імпрэзы"]
 title: "Івану Луцкевічу - 120 гадоў!"
 ---
