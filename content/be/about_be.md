@@ -17,6 +17,14 @@ menu: main
 Мы знаходзімся па адрасе Віленская 20 (Vilniaus g. 20), уваход з аркі.  
 
 <iframe src="{{https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1184.8973958925305!2d25.278094216664133!3d54.68420263901202!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dd94119edb289b%3A0xa8fa3720437c9bd6!2sVilniaus%20g.%2C%20Vilnius%2001402!5e1!3m2!1sen!2slt!4v1623764446212!5m2!1sen!2slt}}" width="600" height="450" frameborder="0"></iframe>
+{{<maps uCTcFQuDTAbXwfaz7>}}
+
+  <iframe src="https://player.vimeo.com/video/146022717" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.377084474057!2d139.75146199999998!3d35.667716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b933eb5098d%3A0xb799ee788fa28eb7!2seSolia+Inc.!5e0!3m2!1sen!2sjp!4v1434536695719" width="600" height="450" frameborder="0" style="border:0"></iframe>
+
+{{< vimeo id="146022717" class="my-vimeo-wrapper-class" title="My vimeo video" >}}
+
 
 <iframe src="{{.Get 0}}" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 
