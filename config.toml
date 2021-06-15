@@ -9,7 +9,7 @@ SectionPagesMenu = "main"
 Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-
+map_api_key = "AIzaSyBTxLl9ZxW-u1QFHnSGovbwkY0pXNT0B-I"
 [languages]
   [languages.be]
     title = "Цэнтар беларускай культуры й супольнасьці ў Вільні"
