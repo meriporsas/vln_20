@@ -10,12 +10,6 @@ Paginate = 10 # this is set low for demonstrating with dummy content. Set to a h
 googleAnalytics = ""
 enableRobotsTXT = true
 
-map = 1
-map_api_key = "AIzaSyBTxLl9ZxW-u1QFHnSGovbwkY0pXNT0B-I"
-latitude = "54.68468020202893"
-longitude - "25.27980546584912"
-zoom = 15
-
 [languages]
   [languages.be]
     title = "Цэнтар беларускай культуры й супольнасьці ў Вільні"
