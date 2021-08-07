@@ -12,15 +12,15 @@ enableRobotsTXT = true
 
 [languages]
   [languages.be]
-    title = "Цэнтар беларускай культуры й супольнасьці ў Вільні"
+    title = "Цэнтар беларускай супольнасьці й культуры ў Вільні"
     weight = 1
     contentDir = "content/be"
   [languages.lt]
-    title = "Baltarusių kultūros ir bendruomenės centras Vilniuje"
+    title = "Baltarusių bendruomenės ir kultūros centras Vilniuje"
     weight = 2
     contentDir = "content/lt"
   [languages.en]
-    title = "Center of Belarusian Culture and Community in Vilnius"
+    title = "Belarusian Community and Culture Center in Vilnius"
     weight = 3
     contentDir = "content/en"
 
@@ -35,7 +35,7 @@ post = "/:slug/"
 [params]
   favicon = "images/VBM_logo.svg"
   site_logo = ""
-  description = "Welcome to the Center of Belarusian Culture and Community in Vilnius."
+  description = "Welcome to the Belarusian Community and Culture Center in Vilnius."
   facebook = "https://www.facebook.com/lutskevichmuseum/"
   instagram = "https://www.instagram.com/vilniaus20_by/"
   background_color_class = "bg-dark-gray"
