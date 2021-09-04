@@ -1,7 +1,7 @@
 ---
 date: 2021-06-03T18:06:11+03:00
 description: ""
-featured_image: "../images/build.jpg"
+featured_image: "https://vilnia.com/images/build.jpg"
 tags: ["імпрэзы"]
 title: "Івану Луцкевічу - 140 гадоў!"
 ---
