@@ -2,7 +2,7 @@
 title: "What's going on"
 description: "June issue"
 featured_image: ''
-draft: false
+draft: true
 omit_header_text: true
 ---
 
