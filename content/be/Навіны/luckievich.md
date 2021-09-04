@@ -1,7 +1,7 @@
 ---
 date: 2021-06-03T18:06:11+03:00
 description: ""
-featured_image: ""
+featured_image: "/images/build.jpg"
 tags: ["імпрэзы"]
 title: "Івану Луцкевічу - 140 гадоў!"
 ---
