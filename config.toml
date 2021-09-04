@@ -19,6 +19,7 @@ enableRobotsTXT = true
     title = "Baltarusių bendruomenės ir kultūros centras Vilniuje"
     weight = 2
     contentDir = "content/lt"
+    mainSections = ["Naujienos"]
   [languages.en]
     title = "Belarusian Community and Culture Center in Vilnius"
     weight = 3
@@ -41,5 +42,5 @@ post = "/:slug/"
   background_color_class = "bg-dark-gray"
   recent_posts_number = 2
   #mainSections = ["Навіны"]
-  mainSections = ["Naujienos"]
+  #mainSections = ["Naujienos"]
 
