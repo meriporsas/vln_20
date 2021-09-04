@@ -1,0 +1,35 @@
+[more]
+other = "Яшчэ"
+
+[allTitle]
+other = "Усе {{.Title }}"
+
+[recentTitle]
+other = "Нядаўнія {{.Title }}"
+
+[readMore]
+other = "чытаць далей"
+
+[whatsInThis]
+other = "Зьмест {{ .Type }}"
+
+[related]
+other = "Падобныя"
+
+[yourName]
+other = "Ваша імя"
+
+[emailAddress]
+other = "Электронная пошта"
+
+[message]
+other = "Паведамленьні"
+
+[emailRequiredNote]
+other = "Электронная пошта абавязковая"
+
+[send]
+other = "Выслаць"
+
+[taxonomyPageList]
+other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
