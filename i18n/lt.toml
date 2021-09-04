@@ -1,0 +1,35 @@
+[more]
+other = "Dar"
+
+[allTitle]
+other = "Visi {{.Title }}"
+
+[recentTitle]
+other = "Paskutinės {{.Title }}"
+
+[readMore]
+other = "skaityti toliau"
+
+[whatsInThis]
+other = "Turinys {{ .Type }}"
+
+[related]
+other = "Panašūs"
+
+[yourName]
+other = "Jūsų vardas"
+
+[emailAddress]
+other = "Elektroninis paštas"
+
+[message]
+other = "Pranešimai"
+
+[emailRequiredNote]
+other = "Elektroninis paštas būtinas"
+
+[send]
+other = "Išsiųsta"
+
+[taxonomyPageList]
+other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"

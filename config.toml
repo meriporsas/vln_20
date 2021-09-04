@@ -15,6 +15,7 @@ enableRobotsTXT = true
     title = "Цэнтар беларускай супольнасьці й культуры ў Вільні"
     weight = 1
     contentDir = "content/be"
+    mainSections = ["Навіны"]
   [languages.lt]
     title = "Baltarusių bendruomenės ir kultūros centras Vilniuje"
     weight = 2
@@ -24,6 +25,7 @@ enableRobotsTXT = true
     title = "Belarusian Community and Culture Center in Vilnius"
     weight = 3
     contentDir = "content/en"
+    mainSections = ["News"]
 
 [sitemap]
   changefreq = "monthly"
