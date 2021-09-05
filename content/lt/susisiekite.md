@@ -24,7 +24,7 @@ Jei jūs turite minčių apie tai, kaip Baltarusių kultūros ir bendruomenės c
   <input type="submit" value="Submit">
 </form>
 
-<em>Sveiki.<super>2</super></em> Ir <u>t</u>aip.
+#<em>Sveiki.<super>2</super></em> Ir <u>t</u>aip.
 <h3>vins</h3>
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
   <fieldset id="fs-frm-inputs">
