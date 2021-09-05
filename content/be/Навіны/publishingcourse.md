@@ -1,6 +1,7 @@
 ---
 date: 2021-09-05T13:06:11+03:00
 description: ""
+featured_image: "https://vilnia.com/images/vln3.jpg"
 tags: ["імпрэзы"]
 title: "Запрашаем падлеткаў на курс «Выдавецтва»!"
 ---
