@@ -13,7 +13,7 @@ menu: main
 
 Мы знаходзімся па адрасе Віленская 20 (Vilniaus g. 20), уваход з аркі.  
 
-{{< google-maps-location height="300" location="Nuernberg Germany" >}}
+{{<google-maps-location height="300" location="Nuernberg Germany">}}
 
 
 Ісьненьне гэтага цэнтру сталася магчымым дзякуючы самакіраваньню Вільні. 
