@@ -4,6 +4,7 @@ description: ""
 featured_image: "https://vilnia.com/images/publishing.jpg"
 tags: ["імпрэзы"]
 title: "Запрашаем падлеткаў на курс «Выдавецтва»!"
+omit_header_text: true
 ---
 
 {{< figure src="https://vilnia.com/images/publishing.jpg" title="Набор на курс пра выдавецкую справу адкрыты!" >}}
