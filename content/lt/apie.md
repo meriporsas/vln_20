@@ -19,7 +19,7 @@ Turite minčių apie tai, ką mes galėtume daryti geriau, o gal norėtumėte su
 Norėtumėte sužinoti apie mus daugiau? Pasakojame.
 
 Esame įsikūrę Vilniaus g. 20, Vilniaus miesto savivaldybės suteiktame pastate. 
-{{< figure src="https://vilnia.com/images/city.jpg" max-width: 220px max-height: 150px >}}
+{{< figure src="https://vilnia.com/images/city.jpg" max-width=200px max-height=150px >}}
 
 Mūsų centre veikia keletas baltarusių organizacijų:
 I. Luckevičiaus baltarusių muziejus;
