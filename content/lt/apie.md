@@ -10,7 +10,7 @@ menu: main
 
 ### Sveiki atvykę į Baltarusių kultūros ir bendruomenės centro virtualius namus!
 
-# Mūsų centro tikslas - sukurti saugią erdvę baltarusiams, palikusiems tėvynę dėl politinio spaudimo, pristatyti jiems Lietuvą ir jos kultūrą, bei pažindinti vilniečius su baltarusių kultūra.
+#### Mūsų centro tikslas - sukurti saugią erdvę baltarusiams, palikusiems tėvynę dėl politinio spaudimo, pristatyti jiems Lietuvą ir jos kultūrą, bei pažindinti vilniečius su baltarusių kultūra.
 
 Baltarusiai mūsų centre gali gauti psichologinę ir juridinę pagalbą, konsultacijas apie gyvenimą Lietuvoje, bei dalyvauti centro veiklose: parodose, paskaitose, mokymuose, ekskursijose, diskusijose. 
 
@@ -19,7 +19,7 @@ Turite minčių apie tai, ką mes galėtume daryti geriau, o gal norėtumėte su
 Norėtumėte sužinoti apie mus daugiau? Pasakojame.
 
 Esame įsikūrę Vilniaus g. 20, Vilniaus miesto savivaldybės suteiktame pastate. 
-{{< figure src="https://vilnia.com/images/city.jpg" >}}
+{{< figure src="https://vilnia.com/images/city.jpg" max-width: 220px max-height: 150px >}}
 
 Mūsų centre veikia keletas baltarusių organizacijų:
 I. Luckevičiaus baltarusių muziejus;
