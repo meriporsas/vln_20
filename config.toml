@@ -41,7 +41,6 @@ post = "/:slug/"
   description = "Welcome to the Belarusian Community and Culture Center in Vilnius."
   facebook = "https://www.facebook.com/lutskevichmuseum/"
   instagram = "https://www.instagram.com/vilniaus20_by/"
-  telegram = "https://t.me/vilniaus20"
   background_color_class = "bg-dark-gray"
   recent_posts_number = 2
   #mainSections = ["Навіны"]
