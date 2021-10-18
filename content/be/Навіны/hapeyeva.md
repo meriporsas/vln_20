@@ -11,9 +11,9 @@ omit_header_text: true
 
 Раман завецца "Самота, што жыла ў пакоі насупраць". У чаканьні сустрэчы насалоджваемся некалькімі цытатамі.
 
-{{< figure src="https://vilnia.com/images/vol1.jpg">}}
+{{< figure src="https://vilnia.com/images/vol1.jpg" >}}
 
-{{< figure src="https://vilnia.com/images/vol2.jpg">}}
+{{< figure src="https://vilnia.com/images/vol2.jpg" >}}
 
-{{< figure src="https://vilnia.com/images/vol3.jpg"}}
+{{< figure src="https://vilnia.com/images/vol3.jpg" >}}
 
