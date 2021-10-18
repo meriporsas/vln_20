@@ -1,7 +1,8 @@
-date: 2021-10-18T12:06:11+03:00
+date: 2021-10-17T12:06:11+03:00
 description: ""
 featured_image: "https://vilnia.com/images/fem.jpg"
 tags: ["імпрэзы"]
+draft: false
 title: "Лекцыя для бацькоў пра фэмінізм у выхаваньні дзяцей"
 omit_header_text: true
 
