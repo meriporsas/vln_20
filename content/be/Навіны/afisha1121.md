@@ -1,5 +1,5 @@
 ---
-date: 2021-11-01T11:06:11+03:00
+date: 2021-11-21T11:06:11+03:00
 description: ""
 featured_image: "https://vilnia.com/images/1121.png"
 tags: ["імпрэзы"]
