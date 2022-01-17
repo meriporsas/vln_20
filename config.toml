@@ -45,4 +45,5 @@ post = "/:slug/"
   recent_posts_number = 2
   #mainSections = ["Навіны"]
   #mainSections = ["Naujienos"]
+  pluralizeListTitles = false
 
