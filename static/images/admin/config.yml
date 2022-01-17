@@ -9,7 +9,7 @@ backend:
   collections:
     - name: "vilnia"
     label: "Vilnia"
-    folder: "content/vilnia"
+    folder: "content/be"
     create: true
     slug: "{{year}}-{{slug}}"
     fields:
