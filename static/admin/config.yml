@@ -3,10 +3,10 @@ backend:
   branch: master
 
 
-  media_folder: "static/images"
-  public_folder: "images"
+media_folder: "static/images"
+public_folder: "images"
 
-  collections:
+collections:
   - name: "Бібліятэка" # Used in routes, e.g., /admin/collections/blog
     label: "Бібліятэка" # Used in the UI
     folder: "content/be/Бібліятэка" # The path to the folder where the documents are stored
