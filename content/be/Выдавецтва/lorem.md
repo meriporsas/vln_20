@@ -6,7 +6,7 @@ featured_image: ""
 tags:
   - ""
 omit_header_text: true
-thumbnail: images/svaboda-shkolka.jpg
+thumbnail: images/edita.jpg
 ---
 ![](https://vilnia.com/images/photo_Svaboda Shkolka.jpeg)
 
