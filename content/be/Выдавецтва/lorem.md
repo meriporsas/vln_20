@@ -74,8 +74,8 @@ thumbnail: images/svaboda-shkolka.jpg
 
 
 
-![](images/photo_2021-12-02-11.48.52.jpeg)
+![](https://vilnia.com/images/photo_2021-12-02-11.48.52.jpeg)
 
-![](images/photo_2021-12-28-15.36.11.jpeg)
+![](https://vilnia.com/images/photo_2021-12-28-15.36.11.jpeg)
 
 ![](https://vilnia.com/images/photo_2021-09-04-15.48.47.jpeg)
