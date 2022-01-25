@@ -40,6 +40,17 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+    - name: "Школка" # Used in routes, e.g., /admin/collections/blog
+    label: "Школка" # Used in the UI
+    folder: "content/be/Школка" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}  
   - name: "Выдавецтва" # Used in routes, e.g., /admin/collections/blog
     label: "Выдавецтва" # Used in the UI
     folder: "content/be/Выдавецтва" # The path to the folder where the documents are stored
