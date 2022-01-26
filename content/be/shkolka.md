@@ -1,11 +1,10 @@
 ---
-title: Школка пры Віленскім беларускім музэі імя Івана Луцкевіча
-date: 2022-01-25T07:36:29.131Z
+title: "Школка пры Віленскім беларускім музэі імя Івана Луцкевіча"
 description: ""
 featured_image: ""
-tags:
-  - ""
 omit_header_text: true
+type: page
+menu: main
 thumbnail: images/edita.jpg
 ---
 ![](https://vilnia.com/images/edita.jpg)
