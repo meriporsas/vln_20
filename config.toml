@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = "be"
 title = "Цэнтар беларускай культуры й супольнасьці ў Вільні"
-theme = "ananke"
+theme = "Beautiful Hugo"
 disqusShortname = "vilnia"
 
 DefaultContentLanguage = "be"
