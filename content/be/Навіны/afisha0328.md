@@ -1,7 +1,7 @@
 ---
 date: 2022-03-28T10:06:11+03:00
 description: ""
-featured_image: "https://vilnia.com/images/0328.jpg"
+featured_image: "https://vilnia.com/images/0328.png"
 tags: ["імпрэзы"]
 title: "Афіша на 28 сакавіка - 3 красавіка"
 omit_header_text: true
