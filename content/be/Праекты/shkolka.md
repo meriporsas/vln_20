@@ -1,10 +1,12 @@
 ---
-title: "Школка пры Віленскім беларускім музэі імя Івана Луцкевіча"
-description: ""
+title: "Школка"
+description: "Школка пры Віленскім беларускім музэі імя Івана Луцкевіча"
 featured_image: ""
 omit_header_text: true
 type: page
-menu: main
+menu:
+    main:
+        parent: "Праекты"
 thumbnail: images/edita.jpg
 ---
 ![](https://vilnia.com/images/edita.jpg)
