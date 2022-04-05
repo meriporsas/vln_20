@@ -14,7 +14,7 @@ menu: main
 
 Baltarusiai mūsų centre gali gauti psichologinę ir juridinę pagalbą, konsultacijas apie gyvenimą Lietuvoje, bei dalyvauti centro veiklose: parodose, būreliuose paskaitose, mokymuose, ekskursijose, diskusijose. 
 
-Turite minčių apie tai, ką mes galėtume daryti geriau, o gal norėtumėte sukurti kažką įdomaus kartu? Parašykite mums. Mes nekantraujame su jumis susipažinti.
+Turite minčių apie tai, ką mes galėtume daryti geriau, o gal norėtumėte sukurti kažką įdomaus kartu? Parašykite mums paštu vilenskimuzej@gmail.com. Mes nekantraujame su jumis susipažinti.
 
 Norėtumėte sužinoti apie mus daugiau? Pasakojame.
 
