@@ -2,7 +2,7 @@
 date: 2022-04-05T10:06:11+03:00
 description: ""
 featured_image: "https://vilnia.com/images/theater.jpg"
-tags: ["імпрэзы"]
+tags: ["імпрэзы", "гурткі"]
 title: "Тэатральная студыя кліча маленькіх актораў"
 omit_header_text: true
 ---
