@@ -7,7 +7,7 @@ draft: false
 date: 2022-04-17T12:00:00-05:00
 ---
 
-{{< figure src="https://vilnia.com/images/amuletlt.jpg">}}
+{{< figure src="https://vilnia.com/images/amuletlt.jpg" >}}
 
 Fotografijų paroda „Karinis amuletas“
 
@@ -32,7 +32,7 @@ vaizdas tampa tarsi vaikų karo žaidimas, statant tvirtoves ir barikadas. Kūri
 ženkleliai ir emblemos, taip pat ritualinių žaidimų dalis, skaudžiai tikrovei suteikia ypatingą
 simbolinę prasmę.
 
-{{< figure src="https://vilnia.com/images/melnitchenko.jpg"> title="Sergey Melnitchenko nuotr."}}
+{{< figure src="https://vilnia.com/images/melnitchenko.jpg" title="Sergey Melnitchenko nuotr." >}}
 
 Andrey Lomakin savo fotografijos projekte „Amuletas“, kurtame 2015 m., po Rusijos invazijos
 į Krymą bei rytų Ukrainą, nagrinėja ukrainiečių ginklavimosi temą. Tuo metu apie savo seriją
@@ -58,7 +58,7 @@ iš šalies rytų į centrinius regionus, o tai ukrainiečius motyvuoja būti pa
 ateityje. Tačiau pagrindinė šaunamųjų ginklų legalizavimo priežastis yra ne civilių pavertimas
 kariuomene, o šeimos ir turto apsauga.
 
-{{< figure src="https://vilnia.com/images/lomakin.jpg"> title="Andrey Lomakin nuotr."}}
+{{< figure src="https://vilnia.com/images/lomakin.jpg" title="Andrey Lomakin nuotr." >}}
 
 Panašu, kad šaunamasis ginklas yra moderni amuleto versija, suteikianti jo savininkui
 papildomų galių. Ne visi jaučiasi patogiai taikydamiesi ir šaudydami į agresorių, tačiau visi
@@ -78,7 +78,7 @@ gyvenime, naujose, sudėtingose ir pavojingose situacijose Aleksejus fotografuoj
 Fotografuoja aplinką, karo baisumus, jį supančius žmones bei ginklo brolius. Kiek leidžia
 dabartinė situacija Aleksejus savo fotografijas rodo naujausioje serijoje „7“.
 
-{{< figure src="https://vilnia.com/images/charey.jpg"> title="Aleksey Charey nuotr."}}
+{{< figure src="https://vilnia.com/images/charey.jpg" title="Aleksey Charey nuotr." >}}
 
 Fotografijų paroda „Karinis amuletas“ yra akcijos „Photography4Peace“, skirtos
 palaikyti Ukrainos fotografiją, dalis. Šią akciją organizuoja Lietuvos fotomenininkų sąjungos
