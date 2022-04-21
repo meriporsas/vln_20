@@ -1,6 +1,6 @@
 ---
 title: "Karinis amuletas"
-description: "Ukrainiečių fotogradijos paroda atsidaro I.Luckevičiaus muziejuje šį penktadienį, 18:00"
+description: "Ukrainiečių fotografijos paroda atsidaro I.Luckevičiaus muziejuje šį penktadienį, 18:00"
 featured_image: "https://vilnia.com/images/amuletlt.jpg"
 tags: ["renginiai"]
 draft: false
