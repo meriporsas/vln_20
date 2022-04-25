@@ -1,5 +1,5 @@
 ---
-title: "Афіша мерапрыемстваў"
+title: "Афіша"
 featured_image: "images/0425.jpg"
 ---
 
