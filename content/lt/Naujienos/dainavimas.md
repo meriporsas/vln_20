@@ -6,7 +6,7 @@ draft: false
 date: 2022-06-06T12:00:00-05:00
 ---
 
-{{< figure src="https://vilnia.com/images/12lt.jpg" >}}
+{{< figure src="https://vilnia.com/images/spievylt.jpg" >}}
 
 Baltarusių bendruomenės ir kultūros centras bei iniciatyva CreateCulture Group kviečia į dainavimo dirbtuves u ukrainiečių dainininke Marička Čičkova! 
 
