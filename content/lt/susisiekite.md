@@ -9,7 +9,7 @@ menu: main
 
 ### Mes ieškome draugų.
 
-Jei jūs turite minčių apie tai, kaip Baltarusių kultūros ir bendruomenės centras galėtų veikti geriau, ar norėtumėte dalyvauti mūsų veiklose, parašykite mums čia arba el. paštu vilenski.muzej@gmail.com. Nekantraujame su jumis susipažinti!
+Jei jūs turite minčių apie tai, kaip Baltarusių kultūros ir bendruomenės centras galėtų veikti geriau, ar norėtumėte dalyvauti mūsų veiklose, parašykite mums čia arba el. paštu hello@vilnia.com. Nekantraujame su jumis susipažinti!
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
   <fieldset id="fs-frm-inputs">
