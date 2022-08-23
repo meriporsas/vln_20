@@ -1,3 +1,4 @@
+---
 title: "Афіша"
 featured_image: ''
 draft: false
