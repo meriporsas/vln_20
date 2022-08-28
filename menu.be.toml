@@ -12,8 +12,11 @@
 # Submenus are done this way: parent -> identifier
 [[main]]
   name = "Праекты"
-  identifier = "Бібліятэка"
+  identifier = "Праекты"
   weight = -108
+[[main]]
+  name = "Праекты"
+  identifier = "Бібліятэка"
 [[main]]
   parent = "Праекты"
   name = "Школка"
