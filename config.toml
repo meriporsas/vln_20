@@ -46,31 +46,3 @@ post = "/:slug/"
   recent_posts_number = 2
   #mainSections = ["Навіны"]
   #mainSections = ["Naujienos"]
-
-[[menu.main]]
-  name = "Праекты"
-  weight = 10
-  [[menu.main]]
-    name = "Праекты"
-    weight = 10
-  [[menu.main.submenu]]
-    name = "Бібліятэка"
-    weight = 10
-    identifier = "archive"
-    url = "/posts/"
-  [[menu.main.submenu]]
-    name = "Выдавецтва"
-    weight = 10
-    identifier = "archive"
-    url = "/posts/"
-  [[menu.main.submenu]]
-    name = "Музэй"
-    weight = 10
-    identifier = "archive"
-    url = "/posts/"
-  [[menu.main.submenu]]
-    name = "Школка"
-    weight = 10
-    identifier = "archive"
-    url = "/posts/"
-
