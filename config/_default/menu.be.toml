@@ -1,9 +1,3 @@
-
-[[main]]
-  name = "Навіны"
-  url = "https://www.vilnia.com/навіны/"
-  weight = -110
-
 [[main]]
   name = "Афіша"
   url = "https://www.vilnia.com/afisha/"
