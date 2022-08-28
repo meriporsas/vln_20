@@ -1,5 +1,5 @@
 ---
-title: "Музэй"
+title: "Школка"
 featured_image: "images/vln3.jpg"
 description: ""
 menu: 
