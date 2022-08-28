@@ -1,0 +1,28 @@
+
+[[main]]
+  name = "Навіны"
+  url = ""
+  weight = -110
+
+[[main]]
+  name = "Афіша"
+  url = ""
+  weight = -109
+
+# Submenus are done this way: parent -> identifier
+[[main]]
+  name = "Праекты"
+  identifier = "Бібліятэка"
+  weight = -108
+[[main]]
+  parent = "Праекты"
+  name = "Школка"
+  url = ""
+[[main]]
+  parent = "Праекты"
+  name = "Выдавецтва"
+  url = ""
+[[main]]
+  parent = "Праекты"
+  name = "Музэй"
+  url = ""  
