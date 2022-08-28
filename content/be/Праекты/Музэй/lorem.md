@@ -101,8 +101,6 @@ thumbnail: images/photo_2022-01-26-15.27.04.jpeg
 
 Архіў жнівеньскіх падзеяў у Беларусі, які музэю перадала рэдакцыя “Нашай нівы”, ~1500 здымкаў і відэаматэрыялаў, 2020-2022 гг.
 
-
-
 Бібліятэка мастацкай, краязнаўчай, гістарычнай літаратуры ад савецкага перыяду да сучаснага
 
 
@@ -120,7 +118,5 @@ I. Luckevičiaus baltarusių muziejus,  VšĮ
 E-mail: [vilenski.muzej@gmail.com](<>)
 
 [www.facebook.com/lutskevichmuseum](http://www.facebook.com/lutskevichmuseum)
-
-<https://www.instagram.com/vilniaus20_by/>
 
 <https://t.me/vilniaus20>
