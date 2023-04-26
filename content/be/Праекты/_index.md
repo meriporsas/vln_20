@@ -1,7 +1,7 @@
 ---
 title: "Праекты"
 featured_image: "images/vln3.jpg"
-description: "Праекты"
+description: ""
 manu: 
     main:
         identifier: projects

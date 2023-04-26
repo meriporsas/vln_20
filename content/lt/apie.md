@@ -19,7 +19,7 @@ Turite minčių apie tai, ką mes galėtume daryti geriau, o gal norėtumėte su
 Norėtumėte sužinoti apie mus daugiau? Pasakojame.
 
 Esame įsikūrę Vilniaus g. 20, Vilniaus miesto savivaldybės suteiktame pastate (atpažinsite mus iš vėliavų, o atėję iki durų paspauskite vieną iš mygtukų iš kairės). 
-{{< figure src="https://vilnia.com/images/city.jpg" max-width=200px max-height=150px >}}
+
 
 Mūsų centre veikia keletas baltarusių organizacijų:
 
@@ -56,3 +56,5 @@ Norėtumėte prisijungti prie mūsų darbo? Parašykite mums vilenskimuzej@gmail
 Taip pat galite mus palaikyti pervesdami mums 1,2% GPM. Už 2022 m. gautas lėšas papildėme mūsų bibliotekos vaikišką skyrių. Mūsų mažieji lankytojai yra patys aršiausi skaitytojai ir bus jums labai dėkingi už galimybę skaityti knygas gimtąja kalba. 2023 m. surinktos lėšos bus skirtos švenčių ir renginių vaikams organizavimui.
 
 Mūsų rekvizitai yra I. Luckevičiaus baltarusių muziejus, VšĮ, Įmonės kodas 110082694.
+
+{{< figure src="https://vilnia.com/images/city.jpg" max-width=200px max-height=150px >}}
