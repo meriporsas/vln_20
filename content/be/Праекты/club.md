@@ -1,5 +1,5 @@
 ---
-date: 2021-08-05T10:06:11+03:00
+date: 2023-04-05T10:06:11+03:00
 description: ""
 featured_image: "https://vilnia.com/images/club2.jpg"
 title: "Жаночы клюб"
