@@ -1,5 +1,5 @@
 ---
-date: 2022-09-10T11:06:11+03:00
+date: 2023-05-01T11:06:11+03:00
 description: ""
 featured_image: "https://vilnia.com/images/kurs.md"
 tags: ["курсы"]
