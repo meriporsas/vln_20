@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Бібліятэка пры Віленскім беларускім музэі імя Івана Луцкевіча
+featured_image: "https://vilnia.com/images/book.jpg"
 date: 2022-01-26T12:53:39.475Z
 thumbnail: images/photo_2022-01-26-15.04.38.jpeg
 type: page
