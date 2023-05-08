@@ -6,7 +6,7 @@ disqusShortname = "vilnia"
 
 DefaultContentLanguage = "be"
 SectionPagesMenu = "main"
-Paginate = 10
+Paginate = 9
 googleAnalytics = ""
 enableRobotsTXT = true
 pluralizeListTitles = false
