@@ -1,5 +1,6 @@
 ---
 date: 2023-04-06T10:06:11+03:00
+layout: blog
 description: ""
 featured_image: "https://vilnia.com/images/shkol2.jpg"
 title: "Беларуская школка"
