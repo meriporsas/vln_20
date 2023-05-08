@@ -4,6 +4,7 @@ description: ""
 featured_image: "https://vilnia.com/images/shkol2.jpg"
 title: "Беларуская школка"
 omit_header_text: true
+type: page
 ---
 
 
