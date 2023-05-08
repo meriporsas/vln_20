@@ -3,8 +3,7 @@ title: Віленскі беларускі музэй імя Івана Луцк
 date: 2021-11-28T11:06:11+03:00
 description: ""
 featured_image: "images/photo_2022-01-26-15.27.04.jpeg"
-tags:
-  - ""
+type: page
 omit_header_text: true
 thumbnail: images/photo_2022-01-26-15.27.04.jpeg
 ---
