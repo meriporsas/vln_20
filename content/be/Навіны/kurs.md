@@ -3,7 +3,7 @@ draft: true
 omit_header_text: true
 featured_image: https://vilnia.com/images/kurs.png
 title: Анляйн-курс “Таварыства жывых паэтаў і паэтак”
-date: 2023-05-01T11:06:11+03:00
+date: 2023-06-12T12:00:15.641Z
 thumbnail: images/kurs.png
 tags:
   - курсы
@@ -52,7 +52,7 @@ description: ""
 
 Курс платны. Кошт удзелу ў курсе – 35 еўра за ўвесь курс. Ваш удзел у курсе – гэта падтрымка аўтара курса і дзейнасьці нашага цэнтра ў Вільні.
 
-[Р﻿эгістрацыя на курс ](https://forms.gle/dnD781vV4A2hxMma9)
+[Р﻿эгістрацыя на курс](https://forms.gle/dnD781vV4A2hxMma9)
 
 [Аплата](https://buy.stripe.com/cN25mb8uR88V7DOfZ0)
 
