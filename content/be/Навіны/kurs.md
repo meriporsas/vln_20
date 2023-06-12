@@ -1,12 +1,12 @@
 ---
 date: 2023-06-12T11:06:11+03:00
 description: ""
-featured_image: "https://vilnia.com/images/kurs.png"
+featured_image: "https://vilnia.com/images/kurs1.png"
 tags: ["курсы"]
 title: "Анляйн-курс “Таварыства жывых паэтаў і паэтак”"
 omit_header_text: true
 ---
-{{< figure src="https://vilnia.com/images/kurs.png" title="Андрэй Хадановіч запрашае на новыя літаратурныя прыгоды!" >}}
+{{< figure src="https://vilnia.com/images/kurs1.png" title="Андрэй Хадановіч запрашае на новыя літаратурныя прыгоды!" >}}
 
 Лекцыі і вандроўкі
 
@@ -54,7 +54,7 @@ omit_header_text: true
 
 Увага! Аплачваючы лекцыі, вы аўтаматычна пагаджаецеся на дамову аферты
 
-Усе дадатковыя пытанні праз тэлеграм @larhien
+Усе дадатковыя пытанні праз тэлеграм @liusterkavilnia
 
 	Вандроўкі па Вільні і Віленшчыне
 
