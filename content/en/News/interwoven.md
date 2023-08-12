@@ -60,7 +60,7 @@ One will have to weave them in new ways.
 
 {{< figure src="https://vilnia.com/images/tov6.jpg">}}
 
-### Utilitarian towel in everyday life
+### Utilitary towel in everyday life
 
 The last part of our story is about those towels that accompany us every day in our kitchens. When you get home, stop to look at them for a minute and think about their origin story - how the towel of itselfcame to be in the kitchen, and where from your towel came to your kitchen. Modern machine tools still rely on the aesthetics of tradition. And heritage exists around us every day, we use it every day, even if we don't pay attention to it.
 
