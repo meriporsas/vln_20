@@ -1,7 +1,7 @@
 ---
 date: 2023-09-30T12:06:11+03:00
 description: ""
-featured_image: "https://vilnia.com/images/lds1.jpg"
+featured_image: "https://vilnia.com/images/lds1.jpeg"
 tags: ["імпрэзы"]
 draft: false
 title: "Запрашаем на выставу пра мучанікаў і мастацтва!"
