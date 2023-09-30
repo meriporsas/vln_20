@@ -2,7 +2,7 @@
 other = "Dar"
 
 [allTitle]
-other = "Visi {{.Title }}"
+other = "Visos {{.Title }}"
 
 [recentTitle]
 other = "Paskutinės {{.Title }}"
