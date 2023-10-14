@@ -3,7 +3,7 @@ date: 2023-10-13T10:06:11+03:00
 description: ""
 featured_image: "https://vilnia.com/images/paznaka1.png"
 tags: ["імпрэзы", "выставы"]
-title: "Выстава і пэрформанс Асі Бульбенка "Пазнака""
+title: "Выстава і пэрформанс Асі Бульбенка 'Пазнака'"
 omit_header_text: true
 ---
 {{< figure src="https://vilnia.com/images/paznaka1.png">}}
