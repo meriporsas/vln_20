@@ -1,12 +1,12 @@
 ---
 date: 2023-10-13T10:16:12+03:00
 description: ""
-featured_image: "https://vilnia.com/images/marked.png"
+featured_image: "https://vilnia.com/images/marked.jpg"
 tags: ["parodos", "renginiai"]
 title: "Buvusios politinės kalinės Asia Bulybenka paroda ir performansas 'Žymė'"
 omit_header_text: true
 ---
-{{< figure src="https://vilnia.com/images/marked.png">}}
+{{< figure src="https://vilnia.com/images/marked.jpg">}}
 
 Kviečiame palaikyti laisvą politinę kalinę jos sulaikymo metinių proga. Asia Bulybenka transformuoja savo patirtį per tapybą ir performansą, kuris įvyks antradienį, spalio 17 d., tą dieną, kai ji buvo sulaikyta. O tapybos darbų paroda truks 10 dienų – tiek dienų Asia praleido nelaisvėje. Bendrai Asia praleido dvejus metus kalėjime, tačiau šio spektaklio metu ji kalbės apie savo sulaikymą pagal administracinį straipsnį.
 
