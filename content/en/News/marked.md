@@ -3,7 +3,7 @@ date: 2023-10-13T10:16:11+03:00
 description: ""
 featured_image: "https://vilnia.com/images/marked.jpg"
 tags: ["events", "exhibitions"]
-title: "Exhibition and performance "Marked" by a former political prisoner Asia Bulybenka"
+title: "Exhibition and performance 'Marked' by a former political prisoner Asia Bulybenka"
 omit_header_text: true
 ---
 {{< figure src="https://vilnia.com/images/marked.jpg">}}

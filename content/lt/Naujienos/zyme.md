@@ -3,7 +3,7 @@ date: 2023-10-13T10:16:12+03:00
 description: ""
 featured_image: "https://vilnia.com/images/marked.png"
 tags: ["parodos", "renginiai"]
-title: "Buvusios politinės kalinės Asia Bulybenka paroda ir performansas "Žymė""
+title: "Buvusios politinės kalinės Asia Bulybenka paroda ir performansas 'Žymė'"
 omit_header_text: true
 ---
 {{< figure src="https://vilnia.com/images/marked.png">}}
