@@ -1,7 +1,7 @@
 ---
 date: 2023-12-08T12:06:11+03:00
 description: ""
-featured_image: ""https://vilnia.com/images/pryt.jpg""
+featured_image: "https://vilnia.com/images/pryt.jpg"
 tags: [""]
 title: "Навагоднія елкі у Віленскім беларускім дзіцячым прытулку ў 1921 годзе"
 omit_header_text: true
