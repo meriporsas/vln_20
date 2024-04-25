@@ -1,7 +1,7 @@
 ---
 date: 2024-04-24T11:06:11+03:00
 description: ""
-featured_image: "https://vilnia.com/images/vmb1.jpg"
+featured_image: "https://vilnia.com/images/vbm1.jpg"
 tags: ["імпрэзы"]
 title: "Віленскі беларускі музэй запрашае на гэтыя выходныя наведаць выставу пра Чарнобыль, патанчыць і паўторна пагукаць вясну"
 
