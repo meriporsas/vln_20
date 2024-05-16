@@ -13,8 +13,6 @@ Kviečiame jus į Vilniaus baltarusių dailininko Olego Ablažėjaus ankstyvos g
 
 Parodoje bus parodyti darbai, priskirtini Olego vilnietiškojo periodo pradžiai (ankstyviausi piešiniai datuoti 1979, kai jis mokėsi pirmame Vilniaus dailės instituto kurse - paskutiniai sukurti 1990 metais). Pasirinkimas sąlygotas tuo, kad tai lūžio metas dailininko Olego Ablažėjaus vizualinės kalbos formavime. Ablažėjus atvažiavo į Vilnių “po mokslų Vitebske, “susižavėjęs Čiurlionio tapyba, kupinas svajonių apie modernųjį meną, bėgdamas nuo Baltarusijoje tada viešpatavusio socrealizmo“, bet pateko į situaciją, aprašytą patarlėje “Bėgo nuo vilko, papuolė ant meškos”.
 
-
-
 Vilniaus dailės institute Olego mokytoju tapo Algimantas Švėgžda, kuris (kiek tai buvo įmanoma sovietiniam dailininkui) buvo nesocialistinis, bet realistas, savo kūrybinio kelio eigoje užsispyrusiai artėjantis link “fotorealizmo”. Būtent Algimanto Švėgždos įtakos dėka (nors jie dirbo kartu tik du metus) Olegas Ablažėjus palaipsniui ėmė daugiau koncentruotis ne ties formaliomis paieškomis, o ties savo kaip grafiko stipriųjų pusių išraiška - drąsi ekspresyvi plunksnos linija, virtuoziškai sudėtingas ir efektingas piešinys, ryžtingos daugiafigūrės žanrinės kompozicijos. Būtent šie aštuoniasdešimtųjų darbai įtvirtino jo stiprios reputacijos tarp kolegų pagrindą, bet už siauro tuometinių Vilniaus dailės instituto studentų rato jie liko nežinomi.
 
 
