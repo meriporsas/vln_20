@@ -3,24 +3,3 @@
   url = "https://www.vilnia.com/afisha/"
   weight = -109
 
-# Submenus are done this way: parent -> identifier
-[[main]]
-  name = "Праекты"
-  identifier = "Праекты"
-  weight = -108
-  url = "https://www.vilnia.com/праекты/"
-[[main]]
-  parent = "Праекты"
-  identifier = "Бібліятэка"
-[[main]]
-  parent = "Праекты"
-  name = "Школка"
-  url = ""
-[[main]]
-  parent = "Праекты"
-  name = "Выдавецтва"
-  url = ""
-[[main]]
-  parent = "Праекты"
-  name = "Музэй"
-  url = ""  
