@@ -3,7 +3,7 @@ date: 2024-10-10T10:06:11+03:00
 description: ""
 featured_image: "https://vilnia.com/images/cyt.png"
 tags: ["імпрэзы"]
-title: "Бібліятэка за год: падсумоўваем вынікі!"
+title: "Знаёмцеся - Чытальня!"
 omit_header_text: true
 ---
 
