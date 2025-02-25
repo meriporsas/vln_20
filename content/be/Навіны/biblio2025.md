@@ -1,7 +1,7 @@
 ---
 date: 2025-01-10T10:06:11+03:00
 description: ""
-featured_image: "https://vilnia.com/images/biblio2025.jpg"
+featured_image: "images/biblio2025.jpg"
 tags: ["імпрэзы"]
 title: "Бібліятэка за год: падсумоўваем вынікі!"
 omit_header_text: true
@@ -16,4 +16,4 @@ omit_header_text: true
 
 Дзякуем кожнаму, хто чытае, дзеліцца ўражаннямі і вяртаецца па новыя кніжныя навінкі ў нашую біблітэку! 
 
-{{< figure src="https://vilnia.com/images/biblio2025.jpg" >}}
+{{< figure src="images/biblio2025.jpg" >}}
