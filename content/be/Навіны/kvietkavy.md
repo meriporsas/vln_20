@@ -1,7 +1,7 @@
 ---
 date: 2025-02-25T09:06:11+03:00
 description: ""
-featured_image: "https://vilnia.com/images/kvietka.jpeg"
+featured_image: "https://vilnia.com/static/images/kvietka.jpeg"
 tags: ["імпрэзы"]
 title: "Запрашаем вас на Шляхецкі Кветкавы Баль!"
 omit_header_text: true
@@ -42,4 +42,4 @@ omit_header_text: true
 
 Чакаем вас на баль!
 
-{{< figure src="https://vilnia.com/images/kvietka.jpeg">}}
+{{< figure src="https://vilnia.com/static/images/kvietka.jpeg">}}
